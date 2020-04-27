@@ -4,5 +4,7 @@ Username: admin
 Password: sarvesh
 
 
-DATABASE FILE IS INSIDE "database" FOLDER
+DATABASE FILE IS INSIDE "database" FOLDER:
+
+Create databse name "fantastic_school_admin_db"
 
