@@ -1,0 +1,8 @@
+>> LOGIN DETAILS <<
+
+Username: admin
+Password: sarvesh
+
+
+DATABASE FILE IS INSIDE "database" FOLDER
+
